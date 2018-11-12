@@ -1,28 +1,57 @@
 .title{
-
+	text-align: center;
+	background: white;
 }
 
 .titlebutton{
-
+	border: hidden;
+	background: white;
 }
 
 .menu{
+	margin: 10px;
+	border-top: solid 1px black;
+	border-bottom: solid 1px black;
+	height: 70px;
+	width: auto;
+	background: white;
+	text-align: center;
+}
 
+ul li{
+	display: inline;
 }
 
 .menubutton{
-
+	width: 100px;
+	height: 40px;
+	background: white;
 }
 
 .subtitle{
-
+	margin: 10px;
+	border-top: solid 1px black;
+	border-bottom: solid 1px black;
+	height: 40px;
+	width: auto;
+	background: white;
+	text-align: center;
+	font-size: 200%;
 }
 
 .main{
-
+	margin: 10px;
+	width: auto;
+	border-top: solid 1px black;
+	border-bottom: solid 1px black;
 }
 
 .back{
+
+}
+
+body{
+	background: white;
 
 }
 
