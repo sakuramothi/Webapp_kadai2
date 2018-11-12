@@ -1,0 +1,5 @@
+<?
+	class yubinnum_API{
+
+	}
+?>
